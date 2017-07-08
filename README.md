@@ -11,6 +11,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 | GitHub | github.com/dddomin3 |
 
 ---
+---
 
 ## Employment
 
@@ -60,6 +61,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 - Promoted to Data Analyst due to self-developed analysis script
 
 ---
+---
 
 ## Education
 
@@ -73,6 +75,7 @@ B.S. Electrical Engineering Class 2013
   - Bullex Corporation
     - Electrical Component Manufacturing
 
+---
 ---
 
 ## Skills
