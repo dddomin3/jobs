@@ -100,6 +100,7 @@ B.S. Electrical Engineering Class 2013
   - vSphere
   - AWS
   - OpenStack
+  - Terraform
 - Automation and CI/CD Tools
   - Jenkins
   - git (BitBucket)
