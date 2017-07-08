@@ -80,42 +80,36 @@ B.S. Electrical Engineering Class 2013
 
 ## Skills
 
-- Programming/Scripting Languages
-  - Ruby
-  - Groovy
-  - Python
-  - Javascript/NodeJS
-  - HTML5/CSS3
-  - Shell (Bash/Ksh)
-  - PowerShell
-- Data Formats
-  - JSON
-  - YAML
-  - XML
-- APIs
-  - REST
-  - SOAP
-  - GraphQL
-- Containers/Microservices
-  - Docker (Swarm)
-  - Kubernetes
-- Virtualization/Cloud Services
-  - vSphere
-  - AWS
-  - OpenStack
-  - Terraform
-- Automation and CI/CD Tools
-  - Jenkins
-  - git (BitBucket)
-  - JIRA
-  - Rocket.Chat
-  - Puppet
+|  | Programming/Scripting Languages |  |
+|:------:|:-----------:|:------------------:|
+| HTML5/CSS3 | Groovy | Python |
+| Javascript/NodeJS | Ruby | PowerShell |
+| Shell (Bash/Ksh)| SQL | ReQL |
+
+|  | Data Formats |  |
+|:------:|:-----------:|:------------------:|
+| JSON | YAML | XML |
+
+|  | APIs |  |
+|:------:|:-----------:|:------------------:|
+| REST | SOAP | GraphQL |
+
+|  | Containers |  |
+|:------:|:-----------:|:------------------:|
+| Kubernetes | Docker | Docker Swarm |
+
+|  | Virtualization/Cloud Services |  |
+|:------:|:-----------:|:------------------:|
+| vSphere | AWS | Terraform |
+
+|  | Automation and CI/CD Tools |  |
+|:------:|:-----------:|:------------------:|
+| Jenkins | git | Jira |
+| Rocket.Chat | Puppet | Ansible |
 
 ## Hobbies & Interests
 
-- Computer Music
-- Guitar & Bass
-- Audio Signal Processing
-- Analog Synthesis
-- Gaming
-- Snowboarding
+| Music | & | Technology |
+|:------:|:-----------:|:------------------:|
+| Computer Music | Guitar | Bass |
+| Audio Signal Processing | Analog Synthesis | Snowboarding |
