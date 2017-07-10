@@ -14,7 +14,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 *04/2015 - **Current Position***
 
-- Generate & Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source or Enterprise solutions.
+- Generate & Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
 - Version-Controlled Config Management through **Puppet** and **Jenkins**
 - Implement Highly-Available **Docker** solutions across geographically diverse datacenters
 - Design and Deploy Full-Stack Web Apps for customers to manage their infrastructure
@@ -23,7 +23,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 #### Accolades
 
-- Placed Second Place in AT&T **Kubernetes** Hackathon
+- Second Place in AT&T **Kubernetes** Hackathon
 - Completed AT&T **Agile** Training
 - Only contractor out of six converted to FTE
 
