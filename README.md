@@ -59,17 +59,22 @@ BSc, Electrical Engineering, Class of 2013
 
 | Programming/Scripting Languages |  |  |
 |:------:|:-----------:|:------------------:|
-| HTML5/CSS3 | Groovy | Python |
-| Javascript/NodeJS | Ruby | PowerShell |
-| Shell (Bash/Ksh)| SQL | ReQL |
+| Javascript/Node.js | Ruby | Groovy |
+| Bash | PowerShell | Perl |
+| Python | HTML5 | CSS3 |
 
 | Data Formats |  |  |
 |:------:|:-----------:|:------------------:|
 | JSON | YAML | XML |
 
-| APIs |  |  |
+| APIs and Web Servers |  |  |
 |:------:|:-----------:|:------------------:|
+| Apache | NGINX | Express.js |
 | REST | SOAP | GraphQL |
+
+| Databases |  |  |
+|:------:|:-----------:|:------------------:|
+| CouchDB | MySQL | Mongo |
 
 | Containers |  |  |
 |:------:|:-----------:|:------------------:|
@@ -81,8 +86,9 @@ BSc, Electrical Engineering, Class of 2013
 
 | Automation and CI/CD Tools |  |  |
 |:------:|:-----------:|:------------------:|
-| Jenkins | git | Jira |
-| Rocket.Chat | Puppet | Ansible |
+| Jenkins | git | Rocket.Chat |
+| Confluence | Hipchat | Jira |
+| Puppet | Ansible | |
 
 ## Hobbies & Interests
 
