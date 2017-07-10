@@ -1,8 +1,13 @@
 <!DOCTYPE html>
+
+<style>
+  body {
+    font-size: 22px !important;
+  }
+</style>
 <html>
 
-<xmp theme="united" style="display:none;">
-# Markdown text goes in here
+<xmp theme="cerulean" style="display:none;">
 </xmp>
 
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>

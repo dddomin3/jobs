@@ -14,8 +14,6 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 *04/2015 - **Current Position***
 
-#### Responsibilities
-
 - *Generate & Provision VMs* to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source or Enterprise solutions.
 - *Version-Controlled Config Management* through **Puppet** and **Jenkins**
 - *Implement Highly-Available* **Docker** solutions across geographically diverse datacenters
