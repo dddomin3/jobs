@@ -2,28 +2,19 @@
 
 ## DevOps Engineer
 
+**dddomin3@gmail.com | (646) 341-7106 | github.com/dddomin3**
+
 DevOps is a cutting-edge field where challenges are rapidly being discovered and solved. The breadth of cutting-edge technical and interpersonal skills required to be an effective Engineer motivate me to learn and discover more every day. I wish to acquire the skills and knowledge to lead a team of Developers, Operators and DevOps Engineers toward an elegant and resilient CI/CD pipeline.
 
-| Contact | |
-|:------:|:-----------:|
-| E-Mail | dddomin3@gmail.com |
-| Phone  | 646-341-7106 |
-| GitHub | github.com/dddomin3 |
-
----
 ---
 
 ## Employment
 
-### AT&T
+### AT&T: DevOps Engineer
 
-| DevOps Engineer  |  |
-|:------:|:-----------:|
-| Contractor Start | 04/2015  |
-| FTE Start        | 05/2016  |
-| **End Date**     | None |
+*04/2015 - **Current Position***
 
-#### Job Responsibilities
+#### Responsibilities
 
 - *Generate & Provision VMs* to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source or Enterprise solutions.
 - *Version-Controlled Config Management* through **Puppet** and **Jenkins**
@@ -32,7 +23,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 - *Release Management* leveraging **CI/CD** flows
 - *Lead and Maintained* task intake overhaul leveraging **Agile** Methodologies
 
-#### Accolades:
+#### Accolades
 
 - Placed Second Place in AT&T **Kubernetes** Hackathon
 - Completed AT&T **Agile** Training
@@ -40,76 +31,64 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 ---
 
-### Pacific Controls
+### Pacific Controls: Data Analyst
 
-| HVAC Data Analyst  |  |
-|:------:|:-----------:|
-| Job Start          | 12/2013  |
-| Data Analyst Start | 03/2014 |
-|    **End Date**    | 04/2015 |
-                           
-#### Job Responsibilities
+*12/2013 - 04/2015*
 
 - *Founded and lead team* to tackle inefficiencies in report generation
 - *Developed* **Perl** script that calculates and reports HVAC waste
 - *Prioritized and delegated* bug and feature requests across a team of three developers
 - *Oversaw* version control, monthly releases, and patch notes
 - *Contributed* to **Angular** graphical savings data webpage
+- *Promoted* to Data Analyst from Support due to script development
 
-#### Accolades:
-
-- Promoted to Data Analyst due to self-developed analysis script
-
----
 ---
 
 ## Education
 
 ### Rensselaer Polytechnic Institute
 
-B.S. Electrical Engineering Class 2013
+BSc, Electrical Engineering, Class of 2013
 
-- Internships
-  - Intel Corporation
-    - REPL on System Verilog Code
-  - Bullex Corporation
-    - Electrical Component Manufacturing
+#### Internships
 
----
+- Intel Corporation
+- Bullex Corporation
+
 ---
 
 ## Skills
 
-|  | Programming/Scripting Languages |  |
+| Programming/Scripting Languages |  |  |
 |:------:|:-----------:|:------------------:|
 | HTML5/CSS3 | Groovy | Python |
 | Javascript/NodeJS | Ruby | PowerShell |
 | Shell (Bash/Ksh)| SQL | ReQL |
 
-|  | Data Formats |  |
+| Data Formats |  |  |
 |:------:|:-----------:|:------------------:|
 | JSON | YAML | XML |
 
-|  | APIs |  |
+| APIs |  |  |
 |:------:|:-----------:|:------------------:|
 | REST | SOAP | GraphQL |
 
-|  | Containers |  |
+| Containers |  |  |
 |:------:|:-----------:|:------------------:|
 | Kubernetes | Docker | Docker Swarm |
 
-|  | Virtualization/Cloud Services |  |
+| Virtualization/Cloud Services |  |  |
 |:------:|:-----------:|:------------------:|
 | vSphere | AWS | Terraform |
 
-|  | Automation and CI/CD Tools |  |
+| Automation and CI/CD Tools |  |  |
 |:------:|:-----------:|:------------------:|
 | Jenkins | git | Jira |
 | Rocket.Chat | Puppet | Ansible |
 
 ## Hobbies & Interests
 
-| Music | & | Technology |
+| Music | + | Tech |
 |:------:|:-----------:|:------------------:|
 | Computer Music | Guitar | Bass |
 | Audio Signal Processing | Analog Synthesis | Snowboarding |
