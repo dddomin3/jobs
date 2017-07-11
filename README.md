@@ -14,10 +14,10 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 *04/2015 - **Current Position***
 
-- Generate & Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
+- Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
 - Version-Controlled Config Management through **Puppet** and **Jenkins**
 - Implement Highly-Available **Docker** solutions across geographically diverse datacenters
-- Design and Deploy Full-Stack Web Apps for customers to manage their infrastructure
+- Design and Deploy Full-Stack Web Apps for customers to manage their own infrastructure
 - Release Management leveraging **CI/CD** flows
 - Lead and Maintain task intake, leveraging **Agile** Methodologies
 
@@ -70,7 +70,7 @@ BSc, Electrical Engineering, Class of 2013
 | APIs and Web Servers |  |  |
 |:------:|:-----------:|:------------------:|
 | Apache | NGINX | Express.js |
-| REST | SOAP | GraphQL |
+| REST | SOAP | LDAP |
 
 | Databases |  |  |
 |:------:|:-----------:|:------------------:|
@@ -88,7 +88,13 @@ BSc, Electrical Engineering, Class of 2013
 |:------:|:-----------:|:------------------:|
 | Jenkins | git | Rocket.Chat |
 | Confluence | Hipchat | Jira |
-| Puppet | Ansible | |
+| Puppet | Ansible | Markdown |
+
+| IT |  |  |
+|:------:|:-----------:|:------------------:|
+| Firewalls (NSX) | Subnets | DNS Management (Infoblox) |
+| ssh/rdp | HPOO/HPSA/HPOM | Traefik |
+| (Reverse) Proxy | Load Balancing (F5) | NFS |
 
 ## Hobbies & Interests
 
