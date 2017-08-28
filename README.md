@@ -4,7 +4,7 @@
 
 **dddomin3@gmail.com | (646) 341-7106 | github.com/dddomin3 | Fort Collins, Denver, Boulder**
 
-DevOps is a cutting-edge field where challenges are rapidly being discovered and solved. The breadth of cutting-edge technical and interpersonal skills required to be an effective Engineer motivate me to learn and discover more every day. I wish to acquire the skills and knowledge to lead a team of Developers, Operators and DevOps Engineers toward an elegant and resilient CI/CD pipeline.
+The dynamic and ever-growing nature of DevOps motivates me to challenge myself, learn constantly and hone my interpersonal and technical skills. In the future, I endeavor to progress my leadership skills and IT knowledge to foster accessible, elegant and resilient CI/CD pipelines. 
 
 ---
 
@@ -16,8 +16,8 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 - Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
 - Version-Controlled Config Management through **Puppet** and **Jenkins**
-- Implement Highly-Available **Docker** solutions across geographically diverse datacenters
-- Design and Deploy Full-Stack Web Apps for customers to manage their own infrastructure
+- Implement Highly Available (HA) **Docker** solutions across geographically diverse datacenters
+- Design and Deploy Full-Stack Web Apps that facilitate self-service infrastructure management
 - Release Management leveraging **CI/CD** flows
 - Lead and Maintain task intake, leveraging **Agile** Methodologies
 
@@ -33,7 +33,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 *12/2013 - 04/2015*
 
-- Founded and lead team to tackle inefficiencies in report generation
+- Founded and led team to tackle inefficiencies in report generation
 - Developed **Perl** script that calculates and reports HVAC waste
 - Prioritized and delegated bug and feature requests across a team of three developers
 - Oversaw version control, monthly releases, and patch notes
