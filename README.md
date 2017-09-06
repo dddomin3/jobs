@@ -17,7 +17,7 @@ The dynamic and ever-growing nature of DevOps motivates me to challenge myself, 
 - Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
 - Version-Controlled Config Management through **Puppet** and **Jenkins**
 - Implement Highly Available (HA) **Docker** solutions across geographically diverse datacenters
-- Design and Deploy Full-Stack Web Apps that facilitate self-service infrastructure management
+- Design and Deploy Full-Stack **Node.js** Web Apps that facilitate self-service infrastructure management
 - Release Management leveraging **CI/CD** flows
 - Lead and Maintain task intake, leveraging **Agile** Methodologies
 
