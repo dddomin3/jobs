@@ -14,7 +14,7 @@ The dynamic and ever-growing nature of DevOps motivates me to challenge myself, 
 
 *04/2015 - **Current Position***
 
-- Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions.
+- Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions
 - Version-Controlled Config Management through **Puppet** and **Jenkins**
 - Implement Highly Available (HA) **Docker** solutions across geographically diverse datacenters
 - Design and Deploy Full-Stack **Node.js** Web Apps that facilitate self-service infrastructure management
