@@ -2,43 +2,52 @@
 
 ## DevOps Engineer
 
-**dddomin3@gmail.com | (646) 341-7106 | github.com/dddomin3 | Fort Collins, Denver, Boulder**
+**dddomin3@gmail.com | (646) 341-7106 | github.com/dddomin3 | Fort Collins, Boulder**
 
-The dynamic and ever-growing nature of DevOps motivates me to challenge myself, learn constantly and hone my interpersonal and technical skills. In the future, I endeavor to progress my leadership skills and IT knowledge to foster accessible, elegant and resilient CI/CD pipelines. 
+DevOps is a cutting-edge field where challenges are rapidly being discovered and solved. The breadth of cutting-edge technical and interpersonal skills required to be an effective Engineer motivate me to learn and discover more every day. I endeavor to progress my leadership skills and IT knowledge to foster accessible, elegant and resilient application deployment pipelines with a healthy, thriving development environment.
 
 ---
 
 ## Employment
 
+### AceInfo Solutions: Senior DevOps Engineer
+
+*12/2018 - **Current Position***
+
+- Manage on-prem OpenShift Kubernetes for the US government
+- Architect and implement **Jenkins** pipelines for **Java microservices** build and deploy cycles
+- Implement log and metric aggregation through **Splunk**, **collectord**, and **forwarders** 
+- Enforce platform security through use of **Twistlock** and auditable RBAC procedures
+- Coordinate deployments from 3 application teams across multiple government agencies to facilitate the deployment of an application suite deemed critical to the US government
+
+---
+
+### Applied Trust: DevOps Engineer
+
+*10/2017 - 12/2018*
+
+- Manage multiple clients with both large and small **AWS** and **vSphere** environments
+- Assist in **PCI** and **ISO/IEC 27001** assessments
+- Utilize tools such as **Jenkins**, **git**, **Packer** and **Terraform** to automate code deploys, image builds, and infrastructure deployments for both **on-prem and cloud** architectures
+- Maintain patch cycles, on-call support, monitoring and metrics platforms for multiple clients
+- Leverage **Configuration Management** (**Puppet**, **Ansible**) to enforce IT Security needs
+- Balance contractual hourly agreements and task priority to maximize client happiness and IT goals
+
+---
+
 ### AT&T: DevOps Engineer
 
-*04/2015 - **Current Position***
+*04/2015 - 10/2017*
 
 - Provision VMs to **vSphere**, **AWS**, and **OpenStack** via **APIs**, Open Source and Enterprise solutions
-- Version-Controlled Config Management through **Puppet** and **Jenkins**
-- Implement Highly Available (HA) **Docker** solutions across geographically diverse datacenters
+- Version-Controlled Config & Release Management through **Puppet** and **Jenkins**
 - Design and Deploy Full-Stack **Node.js** Web Apps that facilitate self-service infrastructure management
-- Release Management leveraging **CI/CD** flows
-- Lead and Maintain task intake, leveraging **Agile** Methodologies
-
-#### Accolades
-
-- Second Place in AT&T **Kubernetes** Hackathon
-- Completed AT&T **Agile** Training
-- Only contractor out of six converted to FTE
 
 ---
 
 ### Pacific Controls: Data Analyst
 
 *12/2013 - 04/2015*
-
-- Founded and led team to tackle inefficiencies in report generation
-- Developed **Perl** script that calculates and reports HVAC waste
-- Prioritized and delegated bug and feature requests across a team of three developers
-- Oversaw version control, monthly releases, and patch notes
-- Contributed to **Angular** graphical savings data webpage
-- Promoted to Data Analyst from Support due to script development
 
 ---
 
@@ -70,35 +79,36 @@ BSc, Electrical Engineering, Class of 2013
 | APIs and Web Servers |  |  |
 |:------:|:-----------:|:------------------:|
 | Apache | NGINX | Express.js |
-| REST | SOAP | LDAP |
+| haproxy | REST | LDAP/AD |
 
 | Databases |  |  |
 |:------:|:-----------:|:------------------:|
-| CouchDB | MySQL | Mongo |
+| Postgres | MySQL | Mongo |
 
 | Containers |  |  |
 |:------:|:-----------:|:------------------:|
-| Kubernetes | Docker | Docker Swarm |
+| Kubernetes | Docker | Twistlock |
+| collectord | EFK/ELK Stack | Openshift |
 
 | Virtualization/Cloud Services |  |  |
 |:------:|:-----------:|:------------------:|
 | vSphere | AWS | Terraform |
+| Packer | Vagrant | GCP | 
 
-| Automation and CI/CD Tools |  |  |
+| Automation and DevOps Tools |  |  |
 |:------:|:-----------:|:------------------:|
-| Jenkins | git | Rocket.Chat |
-| Confluence | Hipchat | Jira |
-| Puppet | Ansible | Markdown |
+| Jenkins | git | Grafana |
+| Graylog/Splunk | Icinga | Ansible |
+| Puppet | Prometheus | Markdown |
 
-| IT |  |  |
+| IT  & Sysadmin |  |  |
 |:------:|:-----------:|:------------------:|
-| Firewalls (NSX) | Subnets | DNS Management (Infoblox) |
-| ssh/rdp | HPOO/HPSA/HPOM | Traefik |
-| (Reverse) Proxy | Load Balancing (F5) | NFS |
+| Firewalls | DNS Management | ssh/rdp |
+| (Reverse) Proxy | Load Balancing | NFS |
 
 ## Hobbies & Interests
 
 | Music | + | Tech |
 |:------:|:-----------:|:------------------:|
 | Computer Music | Guitar | Bass |
-| Audio Signal Processing | Analog Synthesis | Snowboarding |
+| Analog Synthesis | Snowboarding | Longboarding |
