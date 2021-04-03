@@ -10,9 +10,21 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 
 ## Employment
 
+### BlackLine: Infrastructure Automation Engineer
+
+*12/2019 - **Current Position***
+
+- Deploy repeatable GCP infrastructure and networking through use of **Terraform** modules
+- Manage Google **Kubernetes** Engine clusters, leveraging preemptible instances to keep costs down
+- Develop automation scripts in **Powershell** and **Bash** to bootstrap VM infrastructure
+- Generate designs with heavy focus on **SecOps** approval for FinTech applications
+- Leverage and evangelize the use of **Vault** to provide secure option to house secrets
+
+---
+
 ### AceInfo Solutions: Senior DevOps Engineer
 
-*12/2018 - **Current Position***
+*12/2018 - 12/2019*
 
 - Manage on-prem OpenShift Kubernetes for the US government
 - Architect and implement **Jenkins** pipelines for **Java microservices** build and deploy cycles
@@ -29,9 +41,7 @@ DevOps is a cutting-edge field where challenges are rapidly being discovered and
 - Manage multiple clients with both large and small **AWS** and **vSphere** environments
 - Assist in **PCI** and **ISO/IEC 27001** assessments
 - Utilize tools such as **Jenkins**, **git**, **Packer** and **Terraform** to automate code deploys, image builds, and infrastructure deployments for both **on-prem and cloud** architectures
-- Maintain patch cycles, on-call support, monitoring and metrics platforms for multiple clients
 - Leverage **Configuration Management** (**Puppet**, **Ansible**) to enforce IT Security needs
-- Balance contractual hourly agreements and task priority to maximize client happiness and IT goals
 
 ---
 
@@ -66,49 +76,49 @@ BSc, Electrical Engineering, Class of 2013
 
 ## Skills
 
-| Programming/Scripting Languages |  |  |
-|:------:|:-----------:|:------------------:|
-| Javascript/Node.js | Ruby | Groovy |
-| Bash | PowerShell | Perl |
-| Python | HTML5 | CSS3 |
+| Programming/Scripting Languages |            |        |
+| :-----------------------------: | :--------: | :----: |
+|       Javascript/Node.js        |    Ruby    | Groovy |
+|              Bash               | PowerShell |  Perl  |
+|             Python              |   HTML5    |  CSS3  |
 
-| Data Formats |  |  |
-|:------:|:-----------:|:------------------:|
-| JSON | YAML | XML |
+| Data Formats |       |       |
+| :----------: | :---: | :---: |
+|     JSON     | YAML  |  XML  |
 
-| APIs and Web Servers |  |  |
-|:------:|:-----------:|:------------------:|
-| Apache | NGINX | Express.js |
-| haproxy | REST | LDAP/AD |
+| APIs and Web Servers |       |            |
+| :------------------: | :---: | :--------: |
+|        Apache        | NGINX | Express.js |
+|       haproxy        | REST  |  LDAP/AD   |
 
-| Databases |  |  |
-|:------:|:-----------:|:------------------:|
-| Postgres | MySQL | Mongo |
+| Databases |       |       |
+| :-------: | :---: | :---: |
+| Postgres  | MySQL | Mongo |
 
-| Containers |  |  |
-|:------:|:-----------:|:------------------:|
-| Kubernetes | Docker | Twistlock |
+| Containers |               |           |
+| :--------: | :-----------: | :-------: |
+| Kubernetes |    Docker     | Twistlock |
 | collectord | EFK/ELK Stack | Openshift |
 
-| Virtualization/Cloud Services |  |  |
-|:------:|:-----------:|:------------------:|
-| vSphere | AWS | Terraform |
-| Packer | Vagrant | GCP | 
+| Virtualization/Cloud Services |         |           |
+| :---------------------------: | :-----: | :-------: |
+|            vSphere            |   AWS   | Terraform |
+|            Packer             | Vagrant |    GCP    |
 
-| Automation and DevOps Tools |  |  |
-|:------:|:-----------:|:------------------:|
-| Jenkins | git | Grafana |
-| Graylog/Splunk | Icinga | Ansible |
-| Puppet | Prometheus | Markdown |
+| Automation and DevOps Tools |            |          |
+| :-------------------------: | :--------: | :------: |
+|           Jenkins           |    git     | Grafana  |
+|       Graylog/Splunk        |   Icinga   | Ansible  |
+|           Puppet            | Prometheus | Markdown |
 
-| IT  & Sysadmin |  |  |
-|:------:|:-----------:|:------------------:|
-| Firewalls | DNS Management | ssh/rdp |
-| (Reverse) Proxy | Load Balancing | NFS |
+| IT  & Sysadmin  |                |         |
+| :-------------: | :------------: | :-----: |
+|    Firewalls    | DNS Management | ssh/rdp |
+| (Reverse) Proxy | Load Balancing |   NFS   |
 
 ## Hobbies & Interests
 
-| Music | + | Tech |
-|:------:|:-----------:|:------------------:|
-| Computer Music | Guitar | Bass |
+|      Music       |      +       |     Tech     |
+| :--------------: | :----------: | :----------: |
+|  Computer Music  |    Guitar    |     Bass     |
 | Analog Synthesis | Snowboarding | Longboarding |
